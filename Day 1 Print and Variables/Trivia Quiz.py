@@ -1,0 +1,6 @@
+print("Question: What is the zodiac sign for January 20th or before?")
+print("A) Capricorn")
+print("B) Aquarius")
+print("C) Pisces")
+print("D) Aries")
+print("Correct Answer: C) Capricorn")
