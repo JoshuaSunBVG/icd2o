@@ -35,7 +35,7 @@ total_points_p_1 = game_1_p_1 + game_2_p_1 + game_3_p_1 + game_4_p_1 + game_5_p_
 total_points_p_2 = game_1_p_2 + game_2_p_2 + game_3_p_2 + game_4_p_2 + game_5_p_2
 print()
 
-percent_boxes_p_1_total = total_points_p_1 / 5 * 36
+percent_boxes_p_1_total = total_points_p_1 / 180
 print()
 
 percent_game_1_p_1 = round(game_1_p_1 / 36, 2)
